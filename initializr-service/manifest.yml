@@ -1,0 +1,8 @@
+---
+applications:
+- name: start
+  random-route: true
+  path: target/initializr-service.jar
+  buildpack: java_buildpack
+  services:
+  - initializr-config
