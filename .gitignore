@@ -11,9 +11,9 @@
 .idea
 .factorypath
 *.iml
-bin
 build
 target
 .springBeans
 tmp*
 grapes
+.mvn
